@@ -35,8 +35,8 @@
 
 
   <h2 style="color: #4CAF50;">👨‍💻 Developer</h2>
-  <p><strong>Name:</strong> Pranav P.S.<br>
-  <strong>Email:</strong> <a href="pranavps043@gmail.com">pranavps043@gmail.com</a><br>
+  <p><strong>Name:</strong> Saran.S.Nair.<br>
+  <strong>Email:</strong> <a href="saransnair749@gmail.com">saransnair749@gmail.com</a><br>
 
 
 </body>
